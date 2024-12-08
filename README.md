@@ -7,10 +7,10 @@
   https://nodejs.org/en
 ```
 
-ขั้นตอนที่ 2 ลง tool playwright 
+ขั้นตอนที่ 2 ลง package
 
 ```bash
-  npm init playwright@latest
+  npm i
 ```
 
 วิธี run 
